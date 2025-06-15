@@ -1,0 +1,5 @@
+#    Grid offset East in kilometers (should match your downloaded data).
+utm_mapgen_offset_east (Grid offset East) int 470
+
+#    Grid offset North in kilometers (should match your downloaded data).
+utm_mapgen_offset_north (Grid offset North) int 5420
